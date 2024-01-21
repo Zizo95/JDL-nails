@@ -37,13 +37,18 @@ body{
   .video-content{
     position: relative;
   }
-  .pedicure{
-   display: flex;
-   margin-top: 20px;
-  }
-  .manicure{
-    margin-left: 350px;
-  }
-  h3{
-    text-align: center;
-  }
+ h3{
+text-align: center;
+ }
+ .pedicure{
+  margin-left: 90px;
+ }
+ .manicure{
+  margin-left: 300px ;
+ }
+ .first{
+  margin-left: 60px;
+ }
+ #contact{
+  text-align: center;
+ }
