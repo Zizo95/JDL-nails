@@ -21,13 +21,15 @@ body{
   }
   
   .about{
-    background-image: url("images/image19.jpg");
+    background-image: url("images/image1.jpg");
     height: 380px;
     text-align: center;
     color: black;
     font-weight: bold;
     width: 900px;
-    
+    background-size: cover;
+   
+   
   }
  h3{
 text-align: center;
